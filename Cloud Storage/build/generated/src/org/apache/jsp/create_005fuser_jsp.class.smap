@@ -1,0 +1,12 @@
+SMAP
+create_005fuser_jsp.java
+JSP
+*S JSP
+*F
++ 0 create_user.jsp
+create_user.jsp
+*L
+5,13:46
+18,31:60
+48,5:91
+*E
